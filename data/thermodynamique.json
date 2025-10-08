@@ -1,0 +1,572 @@
+[
+  {
+    "id": "1",
+    "question": "Qu’étudie la thermodynamique ?",
+    "answer": "La thermodynamique étudie les transformations de l'énergie à partir des propriétés macroscopiques des systèmes, indépendamment de leur composition microscopique.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "2",
+    "question": "Quels sont les trois types de systèmes thermodynamiques ?",
+    "answer": "Isolé (aucun échange de matière ni d’énergie), Fermé (échange d’énergie seulement), Ouvert (échange de matière et d’énergie).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "3",
+    "question": "Quelle est la différence entre propriétés intensives et extensives ?",
+    "answer": "Intensives : indépendantes de la taille du système (T, P). Extensives : dépendent de la taille (V, masse).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "4",
+    "question": "Que stipule la 1ère loi de la thermodynamique ?",
+    "answer": "L’énergie totale d’un système isolé est constante : ΔU = w + q = mgz + 1/2mv² + q.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "5",
+    "question": "Qu’est-ce que l’enthalpie (H) ?",
+    "answer": "C’est l’énergie thermique échangée à pression constante, une fonction d’état qui mesure la chaleur du système.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "6",
+    "question": "Qu’est-ce que l’entropie (S) ?",
+    "answer": "C’est la mesure de la dispersion de l’énergie ; elle quantifie la partie non convertible en travail utile.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "7",
+    "question": "Quelle relation lie ΔG, ΔH et ΔS ?",
+    "answer": "ΔG = ΔH − TΔS (énergie libre de Gibbs).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "8",
+    "question": "Quand une réaction est-elle spontanée selon ΔG ?",
+    "answer": "Quand ΔG < 0 (réaction exergonique). ΔG > 0 → non spontanée, ΔG = 0 → équilibre.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "9",
+    "question": "Comment les êtres vivants maintiennent-ils l’ordre malgré l’entropie ?",
+    "answer": "Ils sont des systèmes ouverts : ils échangent énergie et matière avec leur environnement (énergie solaire transformée en organisation).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "10",
+    "question": "Qu’est-ce que le potentiel chimique μi ?",
+    "answer": "Énergie libre molaire partielle d’un constituant : μi = μi° + RT ln ai.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "11",
+    "question": "Quelle est la différence entre solution idéale et réelle ?",
+    "answer": "Idéale : pas d’interactions soluté-solvant. Réelle : interactions → on remplace la fraction molaire par l’activité ai = fi·xi.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "12",
+    "question": "Quelles sont les principales propriétés colligatives ?",
+    "answer": "Abaissement du point de congélation, élévation du point d’ébullition, baisse de pression de vapeur, pression osmotique.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "13",
+    "question": "Formule de la pression osmotique (loi de van’t Hoff) ?",
+    "answer": "π = CRT, où C est la concentration molaire du soluté, R la constante des gaz, T la température absolue.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "14",
+    "question": "Quel est l’effet de l’osmose sur les cellules animales ?",
+    "answer": "Hypotonique → gonflement, isotonique → équilibre, hypertonique → plasmolyse (rétrécissement).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "15",
+    "question": "Quel rôle jouent les aquaporines ?",
+    "answer": "Ce sont des canaux protéiques transmembranaires spécialisés dans le transport rapide de l’eau.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "16",
+    "question": "Quelle est la pression osmotique normale du sang ?",
+    "answer": "Environ 7,6 atm (≈ 285–305 mOsm/L).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "17",
+    "question": "Qu’est-ce que la pression oncotique ?",
+    "answer": "Pression exercée par les macromolécules (protéines, polysaccharides) dans le plasma sur les parois des capillaires.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "18",
+    "question": "Quelle est la conséquence du diabète sur l’osmose cellulaire ?",
+    "answer": "Excès de glucose sanguin → sortie d’eau des cellules → déshydratation cellulaire (plasmolyse).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "19",
+    "question": "Formule du potentiel électrochimique d’un ion ?",
+    "answer": "μi = μi° + RT ln(Ci) + zFψ.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "20",
+    "question": "Équation de Nernst pour un ion ?",
+    "answer": "Δψ = (60/z) log([Cout]/[Cin]) à 37 °C.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.6,
+    "due_date": "2025-10-08",
+    "history": [
+      "good"
+    ]
+  },
+  {
+    "id": "21",
+    "question": "Quelle est la constante de Faraday (F) et que représente-t-elle ?",
+    "answer": "F = 96 500 C/mol, elle représente la charge électrique d’une mole d’électrons.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "22",
+    "question": "Que représente le potentiel de membrane selon Nernst ?",
+    "answer": "C’est la différence de potentiel électrique qui équilibre le flux de diffusion d’un ion à travers une membrane sélective.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "23",
+    "question": "Que montre l’équation de Nernst pour K+ intracellulaire (140 mM) et extracellulaire (4 mM) ?",
+    "answer": "Un potentiel de -92,6 mV, indiquant que l’intérieur de la cellule est négatif par rapport à l’extérieur.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.2,
+    "due_date": "2025-10-08",
+    "history": [
+      "bad"
+    ]
+  },
+  {
+    "id": "24",
+    "question": "Qu’est-ce que le rapport de Donnan (rD) ?",
+    "answer": "C’est le rapport de concentration d’un ion entre les compartiments intra et extra-cellulaires à l’équilibre électrochimique : rD = [Cout]/[Cin]^(1/z).",
+    "created_at": "2025-10-08",
+    "interval": 1,
+    "repetitions": 0,
+    "ease_factor": 2.1799999999999997,
+    "due_date": "2025-10-09",
+    "history": [
+      {
+        "date": "2025-10-08",
+        "q": 2,
+        "user_grade": 1
+      }
+    ]
+  },
+  {
+    "id": "25",
+    "question": "Quel est le principe de l’effet Donnan ?",
+    "answer": "Les ions diffusibles se redistribuent pour compenser la présence d’ions non diffusibles (ex. protéines chargées), créant un potentiel et une différence osmotique.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "26",
+    "question": "Quel est le signe du potentiel Donnan ?",
+    "answer": "Il a le même signe que le ion imperméable (ex. négatif si la protéine est chargée négativement).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "27",
+    "question": "Comment s’affranchir de l’effet Donnan ?",
+    "answer": "En travaillant au point isoélectrique (z=0) ou en augmentant la force ionique du milieu pour rendre négligeable la charge des macromolécules.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "28",
+    "question": "Pourquoi les cellules ne sont-elles pas à l’équilibre de Donnan ?",
+    "answer": "Car elles maintiennent un état stationnaire grâce à la pompe Na+/K+-ATPase qui expulse le Na+ contre gradient au prix d’ATP.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "29",
+    "question": "Que se passe-t-il lors d’un blocage de la pompe Na+/K+ (ex. ouabaine) ?",
+    "answer": "Le Na+ entre dans la cellule, provoquant une entrée d’eau par osmose et la lyse cellulaire.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "30",
+    "question": "Qu’est-ce que le volume partiel spécifique d’un soluté ?",
+    "answer": "C’est la variation du volume total de la solution par rapport à la quantité ajoutée de soluté : vi = (∂V/∂ni)T,P.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "31",
+    "question": "Comment mesure-t-on le volume molaire apparent d’une solution ?",
+    "answer": "Par densitométrie : on mesure la densité ρ = m_tot/V, puis on déduit v2 = (V − n1V°1)/n2.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "32",
+    "question": "Pourquoi le volume partiel d’un soluté dépend-il de sa concentration ?",
+    "answer": "À cause des interactions soluté-solvant et soluté-soluté, notamment l’hydratation des molécules.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "33",
+    "question": "Qu’est-ce que l’hydratation d’un soluté ?",
+    "answer": "C’est l’association de molécules d’eau polaires autour d’un soluté, modifiant son volume apparent et ses propriétés thermodynamiques.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.4,
+    "due_date": "2025-10-08",
+    "history": [
+      "medium"
+    ]
+  },
+  {
+    "id": "34",
+    "question": "Comment s’exprime le volume total d’une solution hydratée ?",
+    "answer": "Vtot = g2δv*1 + g2v2 + (g1 − g2δ)v1, où δ est la quantité d’eau liée par gramme de soluté.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "35",
+    "question": "Comment estimer le volume hydraté d’une protéine (Vh) ?",
+    "answer": "Vh = (M2/N) (v2 + δv°1), où v2 est le volume spécifique de la protéine et δv°1 le volume de l’eau associée.",
+    "created_at": "2025-10-08",
+    "interval": 1,
+    "repetitions": 0,
+    "ease_factor": 2.1799999999999997,
+    "due_date": "2025-10-09",
+    "history": [
+      {
+        "date": "2025-10-08",
+        "q": 2,
+        "user_grade": 1
+      }
+    ]
+  },
+  {
+    "id": "36",
+    "question": "Quelle est la valeur typique de δ (eau liée) pour une protéine ?",
+    "answer": "Entre 0,30 et 0,42 g d’eau par g de protéine selon le type (BSA 0,40 ; Lysozyme 0,34 ; Hb 0,42).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "37",
+    "question": "Comment mesure-t-on expérimentalement δ (eau liée) ?",
+    "answer": "Par RMN du proton à -35 °C : l’eau libre est solide, l’eau liée reste liquide et donne un signal mesurable.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "38",
+    "question": "Quelle est l’épaisseur moyenne de la couche d’eau hydratante d’une protéine ?",
+    "answer": "Environ 2,8 Å, soit une seule couche d’eau à la surface de la molécule.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "39",
+    "question": "Que mesure la pression osmotique dans le sang ?",
+    "answer": "La tendance de l’eau à entrer ou sortir des capillaires selon la concentration en solutés (macromolécules et ions).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "40",
+    "question": "Quelle est la différence entre osmose et filtration ?",
+    "answer": "Osmose : passage du solvant à travers membrane semi-perméable. Filtration : passage sous l’effet d’une pression mécanique ou hydrostatique.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "41",
+    "question": "Principe de l’osmose inverse ?",
+    "answer": "Appliquer une pression hydrostatique supérieure à la pression osmotique pour forcer le passage du solvant en sens inverse.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "42",
+    "question": "Différence entre nanofiltration et ultrafiltration ?",
+    "answer": "Nanofiltration retient ions divalents et grosses molécules, ultrafiltration retient les macromolécules (protéines).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "43",
+    "question": "Quel est le diamètre typique des pores en microfiltration ?",
+    "answer": "Entre 0,1 µm et 10 µm, permettant la séparation liquide-solide (ex. débris cellulaires).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "44",
+    "question": "Quelles grandeurs macroscopiques permettent d’obtenir des informations microscopiques ?",
+    "answer": "La masse, la pression, le volume et la concentration permettent d’inférer les interactions et la structure moléculaire.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "45",
+    "question": "Quelle est la relation entre ΔG et Keq pour une réaction ?",
+    "answer": "ΔG’ = −RT ln(Keq) + RT ln(([produits]/[réactifs])) sous conditions standards biochimiques (T=298K, pH=7).",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "46",
+    "question": "Combien de protons faut-il transférer pour produire 1 ATP dans la mitochondrie ?",
+    "answer": "Environ 3 protons H+ sont nécessaires pour synthétiser une molécule d’ATP via l’ATP synthase.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "47",
+    "question": "Quelle est la valeur énergétique du transfert d’un proton dans la mitochondrie ?",
+    "answer": "Environ −15,8 kJ/mol par proton transféré à travers la membrane interne mitochondriale.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.2,
+    "due_date": "2025-10-08",
+    "history": [
+      "bad"
+    ]
+  },
+  {
+    "id": "48",
+    "question": "Comment la cellule maintient-elle son potentiel de membrane stable ?",
+    "answer": "Grâce aux gradients ioniques établis par les pompes Na+/K+ et les canaux sélectifs régulant les flux d’ions.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "49",
+    "question": "Quel est le rôle des forces d’hydratation dans la stabilité des macromolécules ?",
+    "answer": "Elles assurent la solubilité et la structure tridimensionnelle en stabilisant les interactions non covalentes avec l’eau.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  },
+  {
+    "id": "50",
+    "question": "Quel est le lien entre thermodynamique et biologie cellulaire ?",
+    "answer": "Les principes thermodynamiques gouvernent les échanges d’énergie et de matière dans les systèmes vivants, expliquant le métabolisme et l’équilibre cellulaire.",
+    "created_at": "2025-10-08",
+    "interval": 0,
+    "repetitions": 0,
+    "ease_factor": 2.5,
+    "due_date": "2025-10-08",
+    "history": []
+  }
+]
